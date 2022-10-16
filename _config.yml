@@ -4,12 +4,7 @@ plugins:
 remote_theme: ngzhio/jekyll-theme-hamilton
 
 skin: daylight
+subscribe: False
 
-# - title: Twitter
-#   url: https://twitter.com/reAlexByk
-#   icon: fab fa-twitter
-# - title: GitHub
-#   url: https://github.com/realexbyk
-#   icon: fab fa-github
- 
- 
+author: Alexander Bykovskiy
+avatar: /AAB_FF.jpeg
