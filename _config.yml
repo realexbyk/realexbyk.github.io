@@ -1,3 +1,4 @@
-remote_theme: minimal-mistakes-jekyll
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
