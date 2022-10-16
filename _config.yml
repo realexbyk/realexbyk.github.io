@@ -3,13 +3,13 @@ plugins:
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
-skin: Daylight
+skin: daylight
 
-- title: Twitter
-  url: https://twitter.com/reAlexByk
-  icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/realexbyk
-  icon: fab fa-github
+# - title: Twitter
+#   url: https://twitter.com/reAlexByk
+#   icon: fab fa-twitter
+# - title: GitHub
+#   url: https://github.com/realexbyk
+#   icon: fab fa-github
  
  
