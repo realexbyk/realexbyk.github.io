@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### E-commerce Clients analysis
-**Code:** [`#.ipynb`]()    
+**Code:** [`promo_analysis_regression.ipynb`](https://realexbyk.github.io/promo_regression/)    
 **Description:** Analysis of e-commerce site delivery and customer segmentation  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
